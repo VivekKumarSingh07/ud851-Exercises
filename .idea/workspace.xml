@@ -8,9 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="93d8c1f5-f519-4120-a0b9-51328b8f5ece" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,12 +40,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="218">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout/app/src/main/java/com/example/android/datafrominternet/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#1431#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-22">
+              <caret line="56" column="35" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -64,13 +83,14 @@
         <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" />
         <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="960" />
     <option name="y" value="27" />
-    <option name="width" value="960" />
+    <option name="width" value="950" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
@@ -78,8 +98,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -91,89 +109,76 @@
             <path>
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
+              <item name="T02.01-Exercise-CreateLayout" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
+              <item name="T02.01-Exercise-CreateLayout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
+              <item name="T02.01-Exercise-CreateLayout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
+              <item name="T02.01-Exercise-CreateLayout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
+              <item name="T02.01-Exercise-CreateLayout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
+              <item name="T02.01-Exercise-CreateLayout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
+              <item name="T02.01-Exercise-CreateLayout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
+              <item name="T02.01-Exercise-CreateLayout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -181,13 +186,26 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="favoritetoys" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
+              <item name="T02.01-Exercise-CreateLayout" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="datafrominternet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
+              <item name="T02.01-Exercise-CreateLayout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -196,8 +214,8 @@
             <path>
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson02-GitHub-Repo-Search" type="462c0819:PsiDirectoryNode" />
+              <item name="T02.01-Exercise-CreateLayout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -208,6 +226,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,6 +250,61 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ToyApp" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="ud851-Exercises" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -254,10 +329,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="27" width="960" height="1053" extended-state="4" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.3358862" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.335177" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -269,14 +345,14 @@
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49671772" weight="0.23336968" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50328225" side_tool="true" weight="0.2328618" />
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Preview" order="4" visible="true" weight="0.32932165" />
+      <window_info active="true" anchor="right" id="Preview" order="4" visible="true" weight="0.15848452" />
     </layout>
     <layout-to-restore>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
@@ -408,8 +484,25 @@
     <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="218">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout/app/src/main/java/com/example/android/datafrominternet/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="35" />
         </state>
       </provider>
     </entry>
